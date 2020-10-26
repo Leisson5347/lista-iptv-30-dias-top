@@ -2,6 +2,20 @@
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A & E
 http://185.232.53.5:2086/gennaro/gennaro/92727?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS FHD
+http://eitv.cc:80/jayson/YBX7dXEBt7/9604?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS FHD H265
+http://eitv.cc:80/jayson/YBX7dXEBt7/17386?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD
+http://eitv.cc:80/jayson/YBX7dXEBt7/155?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HDᴮᴿ
+http://eitv.cc:80/jayson/YBX7dXEBt7/17138?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS SD
+http://eitv.cc:80/jayson/YBX7dXEBt7/156?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BLINDSPOT
+http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37218?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Telecine Premium HD
+http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/17024.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA 2020 Dᴮᴿ
 http://eitv.cc:80/jayson/YBX7dXEBt7/10049812?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A TURMA DO PATETA
@@ -26,20 +40,6 @@ http://eitv.cc:80/jayson/YBX7dXEBt7/4132?checkedby:iptvcat.com
 http://eitv.cc:80/jayson/YBX7dXEBt7/10047349?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORT HD
 http://62.182.80.246:80/Y5sxum7wrn/H1Ed1j2NDb/82385?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS FHD
-http://eitv.cc:80/jayson/YBX7dXEBt7/9604?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS FHD H265
-http://eitv.cc:80/jayson/YBX7dXEBt7/17386?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD
-http://eitv.cc:80/jayson/YBX7dXEBt7/155?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HDᴮᴿ
-http://eitv.cc:80/jayson/YBX7dXEBt7/17138?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS SD
-http://eitv.cc:80/jayson/YBX7dXEBt7/156?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BLINDSPOT
-http://p-fun.fun:80/VoDOnTvBR2030/2018vod2/37218?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Telecine Premium HD
-http://premium-iptv.link:7899/live/live:83051d549bd7a7e3/MxhkBW9olI/17024.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="Music",TopTV
 https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Universal Channels HD
